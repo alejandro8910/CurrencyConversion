@@ -1,0 +1,3 @@
+/Users/BryanArgueta/CLionProjects/CurrencyConversion/cmake-build-debug/CMakeFiles/CurrencyConversion.dir
+/Users/BryanArgueta/CLionProjects/CurrencyConversion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/BryanArgueta/CLionProjects/CurrencyConversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
